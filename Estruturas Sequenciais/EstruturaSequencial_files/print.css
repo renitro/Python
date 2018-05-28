@@ -1,0 +1,205 @@
+#head_bar {
+    display: none;
+}
+
+#core {
+    margin: 0;
+}
+
+#optional_header {
+    display: none;
+}
+
+#logo {
+	border: 0px;
+}
+
+#search {
+    display: none;
+}
+
+#sidebar {
+    display: none;
+}
+
+#page {
+    font-size: 9pt;
+    font-family: sans-serif;
+    color: #333333;
+}
+
+#page img {
+    border: 0px;
+}
+
+#page h1 {
+    font-family: sans-serif;
+    font-size: 18pt;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+    padding-left: 10px;
+    border-bottom: 1px solid #cccccc;
+}
+
+#page h1 a {
+    color: black;
+    text-decoration: none;
+}
+
+#page h2 {
+    font-family: sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+    padding-left: 10px;
+    border-bottom: 1px solid #cccccc;
+}
+
+#footer p {
+    font-family: sans-serif;
+    font-size: 8pt;
+    color: #333333;
+    margin: 0.5em;
+}
+
+#footer a {
+    color: #333333;
+}
+
+#footer .partners {
+    float: right;
+    word-spacing: 1em;
+}
+
+#footer img {
+    border: 0px;
+}
+
+a img {
+    border: 0px;
+}
+
+#message {
+    display: none;
+}
+
+#content .table-of-contents {
+    display: none;
+}
+
+#content li p {
+    margin:0.5em;
+}
+
+#content h1 {
+    font-size: 16pt;
+    padding: 3px;
+}
+
+#content h2 {
+    font-size: 14pt;
+    padding: 2px;
+}
+
+#content h3 {
+    font-size: 12pt;
+}
+
+#content h4 {
+    font-size: 10pt;
+}
+
+#content {
+    text-align: justify;
+}
+
+#content td {
+    border: 1px solid #f0f0f0;
+    text-align: left;
+    padding: 3px;
+}
+
+#content td p {
+    margin: 0px;
+}
+
+#content hr {
+    border: 1px solid black;
+}
+
+tr.rcdaybreak {
+    background-color: #f0f0f0;
+}
+
+.recentchanges td {
+    padding: 5px;
+}
+
+#page-history td {
+    border: 1px solid #f0f0f0;
+}
+
+.diff-removed {
+    background-color: #ff8080;
+}
+
+.diff-added {
+    background-color: #80ff80;
+}
+
+.diff-title {
+    background-color: #ffff80;
+}
+
+
+table.diff {
+    width: 100%;
+}
+
+pre {
+	padding: 0.5em;
+	font-family: courier, monospace;
+	border: 1pt solid #c0c0c0;
+	background: #F0ECE6;
+	white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
+#editor {
+    text-align: left;
+}
+
+#editor-textarea {
+    width: 100%;
+    clear: right;
+    margin-top: 2em;
+}
+
+#editor-comment {
+    width: 100%;
+}
+
+#preview {
+    margin-top: 3em;
+    margin-bottom: 3em;
+    border: 1px red dashed;
+    background: url(../img/draft.png);
+    padding: 1em;
+}
+
+#previewbelow {
+    margin-top: 3em;
+    margin-bottom: 3em;
+    border: 1px red dashed;
+    background: url(../img/draft.png);
+    padding: 1em;
+}
+
+
+/*
+vim:ts=4:sw=4:si:ai:sm:et:bg=dark
+*/
